@@ -12,5 +12,6 @@
 * FORENSIC: [взлом1](forensic-%D0%B2%D0%B7%D0%BB%D0%BE%D0%BC1.md), [взлом2](forensic-%D0%B2%D0%B7%D0%BB%D0%BE%D0%BC2.md)
 * MISC: [кря-кря](misc-%D0%BA%D1%80%D1%8F-%D0%BA%D1%80%D1%8F.md), [video](misc-video.md)
 * STEGANO: [восстанови](stagano-%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8.md)
+* CRYPTO: [777767777](crypto-777767777.md)
 
 В целом, времени на решение было не много. Одновременно с тем, задания довольно хитрые, а дополнительное время бы и не помогло.

@@ -1,5 +1,5 @@
 osint нужно найти координаты данной кофейни по фотографии.
-![coffee](https://github.com/s1bbii/ural-cybershit-2024-writeup/blob/master/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/coffee.jpg)
+![coffee](https://github.com/s1bbii/ural-cybershit-2024-writeup/blob/18409469bd84ef0f751b1b86cdd361c1a499dcac/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8/coffee.jpg)
 
 Формат флага CTF{xx.xx, xxx.xx}
 

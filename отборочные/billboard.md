@@ -1,7 +1,7 @@
 Простенький osint на поиск координат
 
 Найти координаты данной фотографии 
-![Billboard](отборочные/фотографии/billboard.png)
+![Billboard](https://github.com/s1bbii/ural-cybershit-2024-writeup/blob/4d3fb53cac204a3e608d26a56f8a6c1eeea62a61/%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D1%8B%D0%B5/%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8/billboard.png)
 
 Формат флага CTF{xx.xx,xx.xx}
 

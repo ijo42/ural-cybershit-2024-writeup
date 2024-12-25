@@ -7,6 +7,6 @@
 * WEB: LFI-Based
 * MISC: Magic place
 * FORENSIC: [evil_matryoshka](evil_matryoshka.md)
-* CRYPTO: vcrypt, [japanese_cypher](japanese_cypher.md)
-* PWN: Cows and Bulls
+* CRYPTO: [vcrypt](vcrypt.md), [japanese_cypher](japanese_cypher.md)
+* PWN: [cows_and_bulls](cows_and_bulls.md)
 * REVERSE: Rusted

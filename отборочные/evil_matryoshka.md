@@ -1,6 +1,6 @@
 Foresnic
 
-![FFC_evil_matryoshka.jpg](FFC_evil_matryoshka.jpg)
+![FFC_evil_matryoshka.jpg](assets/FFC_evil_matryoshka.jpg)
 
 формат флага CTF{}
 

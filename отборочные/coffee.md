@@ -1,6 +1,6 @@
 osint нужно найти координаты данной кофейни по фотографии.
 
-![coffee.jpg](coffee.jpg)
+![coffee.jpg](assets/coffee.jpg)
 
 Формат флага CTF{xx.xx, xxx.xx}
 

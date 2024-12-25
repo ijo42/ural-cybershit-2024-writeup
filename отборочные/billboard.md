@@ -2,7 +2,7 @@
 
 Найти координаты данной фотографии 
 
-![billboard.png](billboard.png)
+![billboard.png](assets/billboard.png)
 
 Формат флага CTF{xx.xx,xx.xx}
 
